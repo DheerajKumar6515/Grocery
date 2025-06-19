@@ -1,0 +1,46 @@
+[
+    {
+        "image":"/images/category-thumb-1.jpg",
+        "name":"Fruits & Veges"
+    },
+    {
+        "image":"/images/category-thumb-2.jpg",
+        "name":"Breads & Sweets"
+    },
+    {
+        "image":"/images/category-thumb-3.jpg",
+        "name":"Fruits Wine"
+    },
+    {
+        "image":"/images/category-thumb-4.jpg",
+        "name":"Beverages"
+    },
+    {
+        "image":"/images/category-thumb-5.jpg",
+        "name":"Meat Products"
+    },
+    {
+        "image":"/images/category-thumb-6.jpg",
+        "name":"Breads"
+    },
+    {
+        "image":"/images/category-thumb-7.jpg",
+        "name":"Eggs"
+    },
+    {
+        "image":"/images/category-thumb-8.jpg",
+        "name":"Breads & Sweets"
+    },
+    {
+        "image":"/images/category-thumb-1.jpg",
+        "name":"Fruits & Veges"
+    },
+     {
+        "image":"/images/category-thumb-6.jpg",
+        "name":"Breads"
+    },
+    {
+        "image":"/images/category-thumb-4.jpg",
+        "name":"Beverages"
+    }
+]

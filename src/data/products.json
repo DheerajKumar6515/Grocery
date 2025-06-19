@@ -1,0 +1,72 @@
+[
+    {
+        "image":"/images/product-thumb-1.png" ,
+        "name":"Whole Wheat Sandwich Bread" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-2.png" ,
+        "name":"Whole Grain Oatmeal" ,
+        "actualprice":54,
+        "price":50,
+        "rating":41
+    },
+    {
+        "image":"/images/product-thumb-3.png" ,
+        "name":"Sharp Cheddar Cheese Block" ,
+        "actualprice":14,
+        "price":12,
+        "rating":32
+    },
+    {
+        "image":"/images/product-thumb-4.png" ,
+        "name":"Organic Baby Spinach" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-5.png" ,
+        "name":"Organic Spinach Leaves (Fresh Produce)" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-6.png" ,
+        "name":"Fresh Salmon" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-7.png" ,
+        "name":"Imported Italian Spaghetti Pasta" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-8.png" ,
+        "name":"Granny Smith Apples" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-9.png" ,
+        "name":"Organic 2% Reduced Fat Milk" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    },
+    {
+        "image":"/images/product-thumb-10.png" ,
+        "name":"Greek Style Plain Yogurt" ,
+        "actualprice":24,
+        "price":18,
+        "rating":222
+    }
+]
