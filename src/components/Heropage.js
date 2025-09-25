@@ -1,14 +1,16 @@
-"use client";
-import React, { useState } from "react";
+//"use client";
+//import React, { useState,useEffect } from "react";
 import Navbar from "@/components/Navbar";
 import Link from "next/link";
+import Image from "next/image";
 
 function Heropage() {
+
   return (
     <div>
       <Navbar />
 
-      <div className="w-full h-auto xl:h-auto px-6 bg-[#fadc7c]  img">
+      <div className="w-full h-auto xl:h-auto px-6 bg-[#fadc7c] heroimg">
         <h3 className="text-[42px] md:text-7xl lg:text-8xl text-start pt-16 font-sans leading-[55px] md:leading-22 lg:leading-28 tracking-tight text-black/85 xl:text-[5rem] xl:pt-20 xl:pl-12 xl:leading-24 xl:pr-[37rem] 2xl:w-[84rem]">
           <span className="font-bold text-[#6bb252]">Organic</span> Foods at
           your <span className="font-bold text-black">Doorsteps</span>
@@ -66,7 +68,9 @@ function Heropage() {
         <div className="flex flex-col md:flex-row xl:justify-center">
           <div className="bg-[#6bb252] h-48 p-6 md:h-[13rem] xl:flex xl:items-start xl:gap-0 xl:p-5 xl:h-32 xl:w-[23rem] 2xl:w-[26rem]">
             <div className="w-full flex justify-center xl:w-36">
-              <img
+              <Image
+               width={50}
+               height={50}
                 className="md:w-16 xl:w-12"
                 src="/images/exchange.png"
                 alt=""
@@ -84,7 +88,11 @@ function Heropage() {
 
           <div className="bg-[#364127] h-48 p-6 md:h-[13rem] xl:flex xl:items-start xl:gap-0 xl:p-5 xl:h-32 xl:w-[23rem] 2xl:w-[26rem]">
             <div className="w-full flex justify-center xl:w-36">
-              <img className="md:w-16 xl:w-12" src="/images/leaf.png" alt="" />
+              <Image 
+              width={50}
+              height={50}
+               className="md:w-16 xl:w-12"
+                src="/images/leaf.png" alt="" />
             </div>
             <div>
               <h3 className="font-semibold text-xl text-white md:text-2xl lg:text-3xl xl:text-[22px]">
@@ -98,7 +106,11 @@ function Heropage() {
 
           <div className="bg-[#f95f09] h-48 p-6 md:h-[13rem] xl:flex xl:items-start xl:gap-0 xl:p-5 xl:h-32 xl:w-[23rem] 2xl:w-[26rem]">
             <div className="w-full flex justify-center xl:w-36">
-              <img className="md:w-16 xl:w-12" src="/images/truck.png" alt="" />
+              <Image 
+              width={50}
+              height={50}
+              className="md:w-16 xl:w-12"
+              src="/images/truck.png" alt="" />
             </div>
             <div>
               <h3 className="font-semibold text-xl text-white md:text-2xl lg:text-3xl xl:text-[22px]">
