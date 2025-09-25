@@ -12,7 +12,7 @@ import {
 import Link from "next/link";
 import Image from "next/image";
 
-function fproduct() {
+function Fproduct() {
   return (
     <div className=" xl:w-[90%] xl:flex xl:flex-col xl:m-auto 2xl:w-[99%] 2xl:mt-10">
       <div className="w-full flex items-center justify-between py-4 px-[9px] md:px-4 lg:px-5">
@@ -107,4 +107,4 @@ function fproduct() {
   );
 }
 
-export default fproduct;
+export default Fproduct;

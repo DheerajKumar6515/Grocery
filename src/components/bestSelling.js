@@ -4,7 +4,7 @@ import products from "@/data/products";
 import Link from "next/link";
 import Image from "next/image";
 
-function bestSelling() {
+function BestSelling() {
   return (
     <div className=" xl:w-[90%] xl:flex xl:flex-col xl:m-auto 2xl:w-[99%] 2xl:mt-5">
       {/* head line */}
@@ -91,4 +91,4 @@ function bestSelling() {
   );
 }
 
-export default bestSelling;
+export default BestSelling;

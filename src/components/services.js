@@ -1,6 +1,6 @@
 import React from "react";
 
-function services() {
+function Services() {
   return (
     <div className="mt-15 px-6 xl:w-[90%] xl:m-auto xl:pt-20 2xl:w-[99%] bg-gray-100">
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
@@ -68,4 +68,4 @@ function services() {
   );
 }
 
-export default services;
+export default Services;

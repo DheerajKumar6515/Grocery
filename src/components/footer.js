@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
 
-function footer() {
+function Footer() {
   const [search, setSearch] = useState("");
   return (
     <div className="xl:w-[90%] xl:m-auto 2xl:w-[98%]">
@@ -200,4 +200,4 @@ function footer() {
   );
 }
 
-export default footer;
+export default Footer;

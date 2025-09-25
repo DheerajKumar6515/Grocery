@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-function peopldemand() {
+function Peopldemand() {
   return (
     <div className="mt-8 px-5 md:mt-10 xl:w-[90%] xl:m-auto xl:pt-5 2xl:w-[98%] 2xl:pt-10 bg-gray-100">
       <div className="md:mt-8">
@@ -123,4 +123,4 @@ function peopldemand() {
   );
 }
 
-export default peopldemand;
+export default Peopldemand;

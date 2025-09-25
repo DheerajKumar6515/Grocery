@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-function banner() {
+function Banner() {
   return (
     <div className="px-5 h-auto grid gap-6 grid-cols-1 xl:flex xl:w-[90%] xl:m-auto 2xl:w-[96%] 2xl:px-0 2xl:mt-5">
       <div className="h-[27rem] xl:w-full 2xl:h-[26rem] 2xl:w-[54rem] relative">
@@ -81,4 +81,4 @@ function banner() {
   );
 }
 
-export default banner;
+export default Banner;

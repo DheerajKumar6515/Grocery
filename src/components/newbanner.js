@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React, { useState } from "react";
 
-function newbanner() {
+function Newbanner() {
   const [firstName, SetFirstname] = useState("");
   const [email, Setemail] = useState("");
 
@@ -61,4 +61,4 @@ function newbanner() {
   );
 }
 
-export default newbanner;
+export default Newbanner;

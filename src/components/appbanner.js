@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 
-function appbanner() {
+function Appbanner() {
   return (
     <div className="bg-[#ffc107] mt-3 mx-6 rounded-3xl px-5 h-auto md:flex md:items-center md:justify-center md:px-28 md:h-[25rem] md:mt-10 lg:mt-12 xl:px-40 xl:h-[25rem] xl:w-[85%] xl:mt-13 xl:m-auto 2xl:px-56 2xl:h-[28rem] 2xl:w-[97%] overflow-hidden">
       <div className="pt-16">
@@ -47,4 +47,4 @@ function appbanner() {
   );
 }
 
-export default appbanner;
+export default Appbanner;

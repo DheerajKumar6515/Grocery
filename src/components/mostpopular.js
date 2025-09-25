@@ -11,7 +11,7 @@ import {
 import Link from "next/link";
 import Image from "next/image";
 
-function mostpopular() {
+function Mostpopular() {
   return (
     <div className=" mt-5 md:mt-10 lg:mt-12 xl:mt-18 xl:w-[90%] xl:flex xl:flex-col xl:m-auto 2xl:w-[99%] 2xl:mt-18">
       <div className="w-full flex items-center justify-between py-4 px-[9px] md:px-4 lg:px-5">
@@ -106,4 +106,4 @@ function mostpopular() {
   );
 }
 
-export default mostpopular;
+export default Mostpopular;

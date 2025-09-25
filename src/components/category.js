@@ -12,7 +12,7 @@ import {
 } from "@/components/ui/carousel";
 import Image from "next/image";
 
-function category() {
+function Category() {
   return (
     <div className=" xl:w-[90%] xl:flex xl:flex-col xl:m-auto 2xl:w-[99%] 2xl:mt-5">
       <div className="w-full flex items-center justify-between py-4 px-[9px] md:px-4 lg:px-5">
@@ -63,4 +63,4 @@ function category() {
   );
 }
 
-export default category;
+export default Category;

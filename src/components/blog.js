@@ -4,7 +4,7 @@ import "remixicon/fonts/remixicon.css";
 import blogdata from "@/data/blogdata";
 import Image from "next/image";
 
-function blog() {
+function Blog() {
   return (
     <div>
       <div className="w-full flex items-center justify-between py-4 px-[9px] md:px-4 lg:px-5 xl:w-[90%] xl:m-auto 2xl:w-[99%]">
@@ -58,4 +58,4 @@ function blog() {
   );
 }
 
-export default blog;
+export default Blog;
